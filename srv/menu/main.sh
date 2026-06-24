@@ -1,5 +1,5 @@
 #!/bin/bash
- bash <(curl -s https://raw.githubusercontent.com/nobita329/ptero/refs/heads/main/ptero/main/license.sh)
+ bash <(curl -s https://raw.githubusercontent.com/MunnaTheDev/ptero/refs/heads/main/ptero/panel/pterodactyl/install.sh)
 # ===========================================================
 # MunnaTheDev Terminal Control Panel
 # Mode By - Nobita
